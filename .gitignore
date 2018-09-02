@@ -5,4 +5,5 @@ nodemodules/
 assetes/videos/
 .mp4
 !app.js
-*.log
+*.php
+
