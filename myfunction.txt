@@ -1,6 +1,8 @@
-onefunction - I have added a very important functiion here. 
+onefunction - I have added a very very important functiion here. 
 
 
 
 
 added a chart function in that
+
+added a code for doing log out
