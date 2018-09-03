@@ -1,1 +1,6 @@
-onefunction - I have added a very important functiion here.
+onefunction - I have added a very important functiion here. 
+
+
+
+
+added a chart function in that
