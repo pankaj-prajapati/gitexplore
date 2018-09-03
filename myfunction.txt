@@ -1,6 +1,9 @@
-onefunction - I have added a very important functiion here. 
+onefunction - I have added a one ok very important functiion here. 
 
 
 
 
 added a chart function in that
+
+
+addinga new function to login user via x method 
